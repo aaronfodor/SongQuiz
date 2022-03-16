@@ -5,45 +5,61 @@
 
 [<img src="https://user-images.githubusercontent.com/37120889/122966033-22a2b180-d389-11eb-8b13-f65fabed4bf7.png" alt="google-play-badge" width="200"/>](https://play.google.com/store/apps/details?id=com.aaronfodor.android.songquiz)
 
-*Do you know what you hear? Challenge yourself on billions of playlists!*
+Do you know what you hear? Challenge yourself on billions of playlists!
 
 Let Song Quiz and Melody guide you into the world of music!
-
-
-
-FEATURES
-
-- While playing, you interact with a speech oriented UI - all you need is your voice 🎵
-- Play with arbitrary playlists, and add them to your library 🎮
-- Do you like a melody? Add it to your favourites, and listen to it later ❤️
-- Challenge your friends or remote opponents ⚔️
-- Train your brain with melodies to keep your memory sharp 🧠
-- Spark your music knowledge against your friends 💡
-- Choose any genre, era, or performer without restrictions 🕺
-- Play anywhere, anytime 🚿
-- Would it be easy? Configure your game to make it more exciting ⚙️
-- Seasonal themes, dark & light mode support, plenty of customization options 🌗
-- Type if you prefer the traditional way – you are not forced to talk ⌨️
 
 As it is easy to use, you can play while traveling, taking a shower, cooking, and so on. While playing, you interact with a speech oriented UI - all you need is your voice 🎵
 
 
 
+FEATURES
+
+• Play on a speech oriented UI - all you need is your voice 🎵
+
+• Play with arbitrary playlists, and add them to your library 🎮
+
+• Do you like a melody? Add it to your favourites, and listen to it later ❤️
+
+• Challenge your friends or remote opponents ⚔️
+
+• Spark your music knowledge 💡
+
+• Choose any genre, era, or performer without restrictions 🕺
+
+• Play anywhere, anytime 🚿
+
+• Would it be easy? Configure your game to make it more exciting ⚙️
+
+• Seasonal themes, dark & light mode support, plenty of customization options 🌗
+
+• Type if you prefer the traditional way – you are not forced to talk ⌨️
+
+• Train your brain with melodies to keep your memory sharp 🧠
+
+ 
 
 FEW WORDS FROM THE DEVELOPER
 
-I always loved music trivia games, but I never found one which would have contained enough songs to be challenging in the long run. Song Quiz makes it possible to play on billions of playlists, solving this issue entirely for free. I hope you have as much fun with it as much as I did making it.
+I always loved music trivia games, but I never found one which would have contained enough songs to be challenging in the long run.
+
+Song Quiz makes it possible to play on billions of playlists, solving this issue entirely for free. It can be played with any Spotify playlist - with roughly 4 billion out there, the selection is wide. You can also add your own Spotify playlists. This application has a speech-oriented user interface that makes it easy to use. For example, you can play while traveling, taking a shower, and so on.
+
+The business model is pretty much that anyone who loves music can indulge his/her passion.
+
+I hope you enjoy it and have as much fun with it as much as I did making it.
 
 -Aaron
 
-
+ 
 
 • Privacy: https://github.com/aaronfodor/SongQuiz/blob/master/PRIVACY.md
+
 • License: https://github.com/aaronfodor/SongQuiz/blob/master/LICENSE
+
 • Acknowledgments: https://github.com/aaronfodor/SongQuiz/blob/master/ACKNOWLEDGMENTS.md
+
 • Support: contact us in-game via About > Report a problem or suggest features
-
-
 
 <p float="middle">
  	<img src="https://user-images.githubusercontent.com/37120889/158456270-3bd5c6b8-c73f-4442-a07b-4e687ca04b2a.PNG" alt="Song Quiz1" width="240"/>
@@ -55,8 +71,6 @@ I always loved music trivia games, but I never found one which would have contai
 	<img src="https://user-images.githubusercontent.com/37120889/158456461-ab78d35a-5c96-4ba0-af3a-08c1a42f0144.PNG" alt="Song Quiz5" width="240"/>
     <img src="https://user-images.githubusercontent.com/37120889/158456254-4cf63a9d-9562-4c9c-b4a9-00f512446904.PNG" alt="Song Quiz6" width="240"/>
 </p>
-
-
 
 
 <p float="middle">
