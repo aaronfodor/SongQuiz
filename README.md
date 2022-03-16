@@ -1,7 +1,7 @@
 # Song Quiz: Guess with Melody!
 [<img src="https://user-images.githubusercontent.com/37120889/158391665-a8c716bf-f7f2-47d8-ae99-799b2a462658.png" alt="icon_launcher" width="150"/>](https://github.com/aaronfodor/SongQuiz)
 
-![](https://img.shields.io/github/license/aaronfodor/SongQuiz) 
+![](https://img.shields.io/github/license/aaronfodor/songquizpublic) 
 
 [<img src="https://user-images.githubusercontent.com/37120889/122966033-22a2b180-d389-11eb-8b13-f65fabed4bf7.png" alt="google-play-badge" width="200"/>](https://play.google.com/store/apps/details?id=com.aaronfodor.android.songquiz)
 
