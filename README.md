@@ -12,32 +12,53 @@ Let Song Quiz and Melody guide you into the world of music!
 As it is easy to use, you can play while traveling, taking a shower, cooking, and so on. While playing, you interact with a speech oriented UI - all you need is your voice 🎵
 
 
-FEATURES
-• Play on a speech oriented UI - all you need is your voice 🎵
-• Play with arbitrary playlists, and add them to your library 🎮
-• Do you like a melody? Add it to your favourites, and listen to it later ❤️
-• Challenge your friends or remote opponents ⚔️
-• Spark your music knowledge 💡
-• Choose any genre, era, or performer without restrictions 🕺
-• Play anywhere, anytime 🚿
-• Would it be easy? Configure your game to make it more exciting ⚙️
-• Seasonal themes, dark & light mode support, plenty of customization options 🌗
-• Type if you prefer the traditional way – you are not forced to talk ⌨️
-• Train your brain with melodies to keep your memory sharp 🧠
+## FEATURES
+
+- Play on a speech oriented UI - all you need is your voice 🎵
+
+- Play with arbitrary playlists, and add them to your library 🎮
+
+- Do you like a melody? Add it to your favourites, and listen to it later ❤️
+
+- Challenge your friends or remote opponents ⚔️
+
+- Spark your music knowledge 💡
+
+- Choose any genre, era, or performer without restrictions 🕺
+
+- Play anywhere, anytime 🚿
+
+- Would it be easy? Configure your game to make it more exciting ⚙️
+
+- Seasonal themes, dark & light mode support, plenty of customization options 🌗
+
+- Type if you prefer the traditional way – you are not forced to talk ⌨️
+
+- Train your brain with melodies to keep your memory sharp 🧠
 
 
-FEW WORDS FROM THE DEVELOPER
+## FEW WORDS FROM THE DEVELOPER
+
 I always loved music trivia games, but I never found one which would have contained enough songs to be challenging in the long run.
+
 Song Quiz makes it possible to play on billions of playlists, solving this issue entirely for free. It can be played with any Spotify playlist - with roughly 4 billion out there, the selection is wide. You can also add your own Spotify playlists. This application has a speech-oriented user interface that makes it easy to use. For example, you can play while traveling, taking a shower, and so on.
+
 The business model is pretty much that anyone who loves music can indulge his/her passion.
+
 I hope you enjoy it and have as much fun with it as much as I did making it.
+
 -Aaron
 
 
-• Privacy: https://github.com/aaronfodor/SongQuiz/blob/master/PRIVACY.md
-• License: https://github.com/aaronfodor/SongQuiz/blob/master/LICENSE
-• Acknowledgments: https://github.com/aaronfodor/SongQuiz/blob/master/ACKNOWLEDGMENTS.md
-• Support: contact us in-game via About > Report a problem or suggest features
+
+- Privacy: https://github.com/aaronfodor/SongQuiz/blob/master/PRIVACY.md
+
+- License: https://github.com/aaronfodor/SongQuiz/blob/master/LICENSE
+
+- Acknowledgments: https://github.com/aaronfodor/SongQuiz/blob/master/ACKNOWLEDGMENTS.md
+
+- Support: contact us in-game via About > Report a problem or suggest features
+
 
 
 <p float="middle">
