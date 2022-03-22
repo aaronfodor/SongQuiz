@@ -9,76 +9,73 @@ Do you know what you hear? Challenge yourself on billions of playlists!
 
 Let Song Quiz and Melody guide you into the world of music!
 
-As it is easy to use, you can play while traveling, taking a shower, cooking, and so on. While playing, you interact with a speech oriented UI - all you need is your voice 🎵
-
-
-## FEATURES
-
-- Play on a speech oriented UI - all you need is your voice 🎵
-
-- Play with arbitrary playlists, and add them to your library 🎮
-
-- Do you like a melody? Add it to your favourites, and listen to it later ❤️
-
-- Challenge your friends or remote opponents ⚔️
-
-- Spark your music knowledge 💡
-
-- Choose any genre, era, or performer without restrictions 🕺
+As it is easy to use, you can play while traveling, take a shower, cook, etc. While playing, you interact with a speech oriented UI - all you need is your voice 🎵
 
 - Play anywhere, anytime 🚿
-
-- Would it be easy? Configure your game to make it more exciting ⚙️
-
-- Seasonal themes, dark & light mode support, plenty of customization options 🌗
-
-- Type if you prefer the traditional way – you are not forced to talk ⌨️
-
+- Spark your music knowledge 💡
 - Train your brain with melodies to keep your memory sharp 🧠
 
 
-## FEW WORDS FROM THE DEVELOPER
+## Features
+
+- Play on a speech oriented UI - all you need is your voice 🎵
+- Play with arbitrary playlists, and add them to your library 🎮
+- Balance the game with difficulty compensation - the more challenging the song, the more points you get ⚖️
+- Do you like a melody? Add it to your favorites, and listen to it later ❤️
+- Challenge your friends or remote opponents ⚔️
+- Choose any genre, era, or performer without restrictions 🕺
+- Track your progress 📈
+- Would it be too easy? Spice up your game with plenty of customization options ⚙️
+- Adjust your input preference – if you prefer the traditional way, you are welcome to type ⌨️
+- Seasonal themes, dark & light mode support 🌗
+
+
+## Few words from the developer
 
 I always loved music trivia games, but I never found one which would have contained enough songs to be challenging in the long run.
 
-Song Quiz makes it possible to play on billions of playlists, solving this issue entirely for free. It can be played with any Spotify playlist - with roughly 4 billion out there, the selection is wide. You can also add your own Spotify playlists. This application has a speech-oriented user interface that makes it easy to use. For example, you can play while traveling, taking a shower, and so on.
+Song Quiz makes it possible to play on billions of playlists, providing an alternative entirely for free. It can be played with any Spotify playlist - with roughly 4 billion out there. You can also add your own Spotify playlists. This application has a speech-oriented user interface, but typing is also possible. It is easy to use - you can play while traveling, take a shower, etc.
 
-The business model is pretty much that anyone who loves music can indulge his/her passion.
+The business model is pretty much that anyone who loves music can indulge their passion.
 
-I hope you enjoy it and have as much fun with it as much as I did making it.
+I hope you enjoy it and have as much fun with it as I did making it.
 
 -Aaron
 
 
 
-- Privacy: https://github.com/aaronfodor/SongQuiz/blob/master/PRIVACY.md
-
-- License: https://github.com/aaronfodor/SongQuiz/blob/master/LICENSE
-
-- Acknowledgments: https://github.com/aaronfodor/SongQuiz/blob/master/ACKNOWLEDGMENTS.md
-
+- Privacy: https://github.com/aaronfodor/SongQuizPublic/blob/main/PRIVACY.md
+- License: https://github.com/aaronfodor/SongQuizPublic/blob/main/LICENSE
+- Acknowledgments: https://github.com/aaronfodor/SongQuizPublic/blob/main/ACKNOWLEDGMENTS.md
 - Support: contact us in-game via About > Report a problem or suggest features
 
+<p float="middle">
+ 	<img src="https://user-images.githubusercontent.com/37120889/159548733-d12f6c59-2c37-4c8b-8323-36d5cabbb902.PNG" alt="Song Quiz1" width="240"/>
+	<img src="https://user-images.githubusercontent.com/37120889/159548736-6af7c3fb-ded3-4025-8be5-2cf6456ff019.PNG" alt="Song Quiz2" width="240"/>
+	<img src="https://user-images.githubusercontent.com/37120889/159548741-ac4a5034-042e-4e9c-a7c6-d9f4b0826b86.PNG" alt="Song Quiz3" width="240"/>
+</p>
+<p float="middle">
+	<img src="https://user-images.githubusercontent.com/37120889/159548746-564b8910-0007-4729-98cd-a9f43ddeaed8.PNG" alt="Song Quiz4" width="240"/>
+	<img src="https://user-images.githubusercontent.com/37120889/159548753-db6447e3-677c-4ac7-9586-8f2ddefabd82.PNG" alt="Song Quiz5" width="240"/>
+    <img src="https://user-images.githubusercontent.com/37120889/159548757-61980b22-9449-420e-8145-bb7f01c84da9.PNG" alt="Song Quiz6" width="240"/>
+</p>
+<p float="middle">
+ 	<img src="https://user-images.githubusercontent.com/37120889/159548717-2119fbeb-78c2-4cf6-8b55-35b7e39bb25c.PNG" alt="Song Quiz7" width="240"/>
+	<img src="https://user-images.githubusercontent.com/37120889/159548721-24d4aea3-faf8-4031-bcec-36d3233de019.PNG" alt="Song Quiz8" width="240"/>
+	<img src="https://user-images.githubusercontent.com/37120889/159548724-40a9f4c6-a140-4a6c-b399-4bca8f575822.PNG" alt="Song Quiz9" width="240"/>
+</p>
+<p float="middle">
+ 	<img src="https://user-images.githubusercontent.com/37120889/159548726-f2f1012c-e016-48ff-b74e-3475cb913442.PNG" alt="Song Quiz10" width="240"/>
+	<img src="https://user-images.githubusercontent.com/37120889/159548730-a110b0cb-8aa3-4e25-a838-c4e954d44723.PNG" alt="Song Quiz11" width="240"/>
+</p>
+
 
 
 <p float="middle">
- 	<img src="https://user-images.githubusercontent.com/37120889/158456270-3bd5c6b8-c73f-4442-a07b-4e687ca04b2a.PNG" alt="Song Quiz1" width="240"/>
-	<img src="https://user-images.githubusercontent.com/37120889/158456318-27dbb3d9-f701-4838-b921-84389265328a.PNG" alt="Song Quiz2" width="240"/>
-	<img src="https://user-images.githubusercontent.com/37120889/158456397-29dc83e1-e6b5-43a7-b8ff-a30c674b1d17.PNG" alt="Song Quiz3" width="240"/>
+	<img src="https://user-images.githubusercontent.com/37120889/159548737-b725bdc9-7a65-4d3b-a180-ef34955b1f02.PNG" alt="Song Quiz12" height="360"/>
+ 	<img src="https://user-images.githubusercontent.com/37120889/159548743-3ce72b2f-5521-4456-be84-4b3d8c792db3.PNG" alt="Song Quiz13" height="360"/>
+ 	<img src="https://user-images.githubusercontent.com/37120889/159548751-8190dcda-aa52-4c6f-bab9-d9c1037a30ce.PNG" alt="Song Quiz14" height="360"/>
 </p>
-<p float="middle">
-	<img src="https://user-images.githubusercontent.com/37120889/158456417-e2e00c80-755f-49e1-abe8-e5566c8e3f42.PNG" alt="Song Quiz4" width="240"/>
-	<img src="https://user-images.githubusercontent.com/37120889/158456461-ab78d35a-5c96-4ba0-af3a-08c1a42f0144.PNG" alt="Song Quiz5" width="240"/>
-    <img src="https://user-images.githubusercontent.com/37120889/158456254-4cf63a9d-9562-4c9c-b4a9-00f512446904.PNG" alt="Song Quiz6" width="240"/>
-</p>
-
-
-<p float="middle">
-	<img src="https://user-images.githubusercontent.com/37120889/158456275-144d5da3-b2b0-421c-864f-888d10930fda.PNG" alt="Song Quiz7" height="360"/>
- 	<img src="https://user-images.githubusercontent.com/37120889/158456291-a0396d0b-0f8d-4be3-95d6-7ab326114601.PNG" alt="Song Quiz8" height="360"/>
- 	<img src="https://user-images.githubusercontent.com/37120889/158456307-b4f308bd-9f00-4bfb-b284-be8b0a644bf4.PNG" alt="Song Quiz9" height="360"/>
-</p>
-
 # License
 
     Copyright (c) 2022 Aaron Fodor
